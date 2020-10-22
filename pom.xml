@@ -115,10 +115,11 @@
 		<mavencompiler.version>3.6.1</mavencompiler.version>
 		
 		
-  		<sonar.projectKey>julianemilio_restcalculator</sonar.projectKey>
-  		<sonar.organization>julianemilio</sonar.organization>
+  		<properties>
+  		<sonar.projectKey>josoriolarro_rescalc</sonar.projectKey>
+  		<sonar.organization>josoriolarro</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  		<sonar.login>2c613ffe804b4ef869a4b9545b7dacfcadbab80f</sonar.login>
+</properties>
 
 	
 	</properties>
