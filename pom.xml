@@ -113,13 +113,12 @@
 		<maven.failsafe.plugin.version>2.19.1</maven.failsafe.plugin.version>
 		<mockito.version>2.8.9</mockito.version>
 		<mavencompiler.version>3.6.1</mavencompiler.version>
-		
-		
-  		<properties>
-  		<sonar.projectKey>josoriolarro_rescalc</sonar.projectKey>
+
+  		
+		<sonar.projectKey>josoriolarro_rescalc</sonar.projectKey>
   		<sonar.organization>josoriolarro</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
+
 
 	
 	</properties>
