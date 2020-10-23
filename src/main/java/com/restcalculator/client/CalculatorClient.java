@@ -21,8 +21,10 @@ public class CalculatorClient implements ICalculator{
 	{
 			try 
 			{
-				String jsonResp = doGetRequest("simplify/" + a + "+" + b);	
-				return substractResult(jsonResp);
+				//String jsonResp = doGetRequest("simplify/" + a + "+" + b);	
+				//return substractResult(jsonResp);
+				Thread.sleep(2000);
+				return a+b;
 	
 			} 
 			catch (Exception e) {
